@@ -2,7 +2,9 @@
 :toc-title:
 :toclevels: 9
 
-# Resources
+# Resources for newcomers
+
+toc::[]
 
 ## Javascript
 ### React
@@ -16,4 +18,5 @@ And then, just keep increasing the knowledge of react and a bit of redux:
  - https://egghead.io/courses/getting-started-with-redux
  - https://egghead.io/courses/advanced-react-component-patterns (for pro users)
  - https://egghead.io/courses/building-react-applications-with-idiomatic-redux
+
 ## Ruby
