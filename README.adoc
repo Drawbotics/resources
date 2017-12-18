@@ -1,0 +1,19 @@
+:toc: macro
+:toc-title:
+:toclevels: 9
+
+# Resources
+
+## Javascript
+### React
+### Build Systems
+
+He should start learning about build systems as soon as possible, so any good introduction to webpack would be ok, I have this for example:
+ - https://blog.envylabs.com/getting-started-with-webpack-2-ed2b86c68783
+
+And then, just keep increasing the knowledge of react and a bit of redux:
+ - https://egghead.io/courses/the-beginner-s-guide-to-reactjs
+ - https://egghead.io/courses/getting-started-with-redux
+ - https://egghead.io/courses/advanced-react-component-patterns (for pro users)
+ - https://egghead.io/courses/building-react-applications-with-idiomatic-redux
+## Ruby
