@@ -25,7 +25,7 @@ toc::[]
 == Ruby
 - https://learnrubythehardway.org/book/[Learn Ruby The Hard Way] - We love the `Learn [insert programming language] The Hard Way` series. Bullshit-free tutorials to learn a progamming language.
 - https://www.railstutorial.org/book[Rails tutorial] - A classic. Ruby, Rails, Git, TDD, Heroku hosting.
-
+- https://github.com/nslocum/design-patterns-in-ruby[Design Patterns in Ruby] - Examples from the book Design Patterns in Ruby by Russ Olsen
 
 == GraphQL
 - http://graphql.org/learn/[GraphQL Introduction] - The official one. Great to learn about the concepts.
