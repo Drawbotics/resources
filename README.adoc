@@ -2,27 +2,31 @@
 :toc-title:
 :toclevels: 9
 
-# Resources for newcomers
+= Resources
+
+_This is a list of resources we went through to learn about the tech powering https://www.drawbotics.com/[Drawbotics]._
+
+*PR welcomed if you have anything to add to the specified technologies.*
 
 toc::[]
 
-## Javascript
+== Javascript
 
-### React/Redux
+=== React/Redux
 - https://reactjs.org/[Official ReactJS Documentation] - Must read.
 - https://egghead.io/courses/the-beginner-s-guide-to-reactjs[Egg Head - The beginner's guide to ReactJS]
 - https://egghead.io/courses/getting-started-with-redux[Egg Head - Getting Started with Redux]
 - https://egghead.io/courses/building-react-applications-with-idiomatic-redux[Egg Head - Building React Applications With Idiomatic Redux]
 - https://egghead.io/courses/advanced-react-component-patterns[Egg Head - Advanced React Commponent Patterns] - _Pro user_
 
-### Build Systems
+=== Build Systems
 - https://blog.envylabs.com/getting-started-with-webpack-2-ed2b86c68783[Getting Started with Webpack 2] - Must read to learn about build systems & webpack
 
-## Ruby
+== Ruby
 - https://learnrubythehardway.org/book/[Learn Ruby The Hard Way] - We love the `Learn [insert programming language] The Hard Way` series. Bullshit-free tutorials to learn a progamming language.
 - https://www.railstutorial.org/book[Rails tutorial] - A classic. Ruby, Rails, Git, TDD, Heroku hosting.
 
 
-## GraphQL
+== GraphQL
 - http://graphql.org/learn/[GraphQL Introduction] - The official one. Great to learn about the concepts.
 - https://www.howtographql.com/[How To GraphQL] - The Fullstack Tutorial for GraphQL. Amazing multi-language implementation tutorial. Both Client and Server. A must-read
